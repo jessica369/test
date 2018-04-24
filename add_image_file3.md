@@ -10,6 +10,7 @@
 一起来看下效果吧！！！
 
 插入表格
+
 | Name | Academy | score | 
 | - | :-: | -: | 
 | Harry Potter | Gryffindor| 90 | 

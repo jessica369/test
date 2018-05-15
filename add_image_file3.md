@@ -20,7 +20,13 @@
 | Hermione Granger | Gryffindor | 100 | 
 | Draco Malfoy | Slytherin | 90 |
 
+<<<<<<< HEAD
 添加水母图片
 
 ![image](https://github.com/jessica369/test/blob/master/pic/Jellyfish.jpg)
 图3：水母图片
+=======
+
+输入测试代码
+
+>>>>>>> origin/master

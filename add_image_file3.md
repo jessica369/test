@@ -14,6 +14,7 @@
 插入表格
 
 表1 书名对照表
+
 | Name | Academy | score | 
 | - | :-: | -: | 
 | Harry Potter | Gryffindor| 90 | 
